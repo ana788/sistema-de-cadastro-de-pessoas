@@ -1,6 +1,6 @@
 # Sistema de cadastro de pessoas
 
-Este é um de sistema de nível acadêmico para cadastramento de pessoas, possuindo as operações CRUD.
+Este é um de sistema para cadastramento de pessoas, possuindo as operações CRUD.
 
 
 <br>
