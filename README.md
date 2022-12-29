@@ -1,5 +1,9 @@
 # Sistema de cadastro de pessoas
 
+Este é um sistema de cadastramento de pessoas, possuindo as operações do CRUD.
+
+
+<br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/38301852/209893814-1b75cd99-8df6-49b7-a5d0-3da0caf3404a.png"/>
   <br><span style-font = "font-size: xx-small"> Tela Principal</span>
